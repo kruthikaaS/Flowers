@@ -11,3 +11,9 @@ Champa
 Marigold
 Tulip
 Bluebell
+
+the follwoing flower names were added in the file of master branch
+
+Peruvian lily
+chrysanthemum
+hyacinth
